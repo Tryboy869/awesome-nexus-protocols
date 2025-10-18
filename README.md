@@ -1,10 +1,8 @@
+# Awesome Nexus Protocols [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tryboy869/awesome-nexus-protocols/main/logo.svg" alt="Nexus Protocols" width="400">
-  <br>
-  <br>
 </div>
-
-# Awesome Nexus Protocols [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Universal protocols for building reliable distributed systems.
 
@@ -84,7 +82,6 @@ Nexus Protocols provides standardized specifications for common distributed syst
 
 ### Background Reading
 
-- **[Reactive Streams Specification](https://www.reactive-streams.org/)** - Foundation for backpressure in reactive systems.
 - **[TCP Flow Control](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#Flow_control)** - Network-level flow control mechanisms that inspired Nexus Backpressure.
 - **[Project Reactor Reference](https://projectreactor.io/docs/core/release/reference/)** - Backpressure implementation in reactive Java.
 
@@ -119,8 +116,6 @@ Currently accepting submissions from projects using Nexus Protocols in productio
 ### Similar Projects
 
 - **[Reactive Streams](https://www.reactive-streams.org/)** - JVM-focused reactive programming specification with backpressure support.
-- **[gRPC Flow Control](https://grpc.io/docs/guides/flow-control/)** - HTTP/2-based flow control in gRPC framework.
-- **[NATS JetStream](https://docs.nats.io/nats-concepts/jetstream)** - Message streaming with built-in flow control.
 
 ### Alternative Approaches
 
