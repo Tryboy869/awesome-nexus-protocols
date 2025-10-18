@@ -56,4 +56,5 @@ Nexus Protocols provides standardized specifications for common distributed syst
 
 ## Footnotes
 
-Created and maintained by [Tryboy869](https://github.com/Tryboy869). For questions or protocol proposals, contact nexusstudio100@gmail.com or open a [GitHub Discussion](https://github.com/Tryboy869/awesome-nexus-protocols/discussions).
+Created and maintained by [Tryboy869](https://github.com/Tryboy869). For questions or protocol proposals, ...contact nexusstudio100@gmail.com or open a [GitHub Discussion](https://github.com/Tryboy869/awesome-nexus-protocols/discussions).
+█
